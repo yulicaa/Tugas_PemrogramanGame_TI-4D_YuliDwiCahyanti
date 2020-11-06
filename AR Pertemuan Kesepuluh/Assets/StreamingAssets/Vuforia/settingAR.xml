@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gabung" size="75.000000 42.128906" />
+    <ImageTarget name="lapangan" size="50.000000 31.250000" />
+    <ImageTarget name="buku" size="50.000000 40.000000" />
+    <ImageTarget name="garuda" size="50.000000 54.208332" />
+    <ImageTarget name="alam" size="65.000000 39.000000" />
+    <ImageTarget name="logo_polinema" size="50.000000 50.417660" />
+  </Tracking>
+</QCARConfig>
